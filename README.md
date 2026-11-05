@@ -12,6 +12,7 @@ Je recherche une **alternance en développement** en **Normandie** ou en **Île-
 
 | Projet | Description | Technologies |
 | --- | --- | --- |
+| [Forum](https://github.com/PierreBasley/forum) | Forum web réalisé à quatre ; ma partie : création de post, migrations SQL, commentaires | Go, SQLite, bcrypt, Docker |
 | [Groupie Tracker](https://github.com/acherif88/groupie-tracker) | Site d'artistes et de concerts à partir d'une API JSON ; j'ai fait le back-end | Go, API REST, tests |
 | [Go Reloaded](https://github.com/acherif88/go-reloaded) | Correcteur automatique de texte en ligne de commande | Go, expressions régulières |
 | [Math Skills](https://github.com/acherif88/math-skills) | Statistiques (moyenne, médiane, variance, écart type) | Go |
