@@ -1,7 +1,7 @@
 # Bonjour, je suis Abdou
 
 Étudiant en **Concepteur Développeur d'Applications** (titre RNCP niveau 6) à **Zone 01 Rouen**, orientation **cybersécurité**.
-Je recherche une **alternance en développement** à Rouen et alentours.
+Je recherche une **alternance en développement** en **Normandie** ou en **Île-de-France**.
 
 - J'apprends par projets, en équipe : Go, web, bases de données, Docker.
 - Certificats Google Cybersecurity et Google IT Support (2025).
